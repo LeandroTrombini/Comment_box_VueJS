@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="GitHubSearchingRepositories" src=".github/Comment_box.gif" width="70%">
+  <img alt="Comment_box" src=".github/Comment_box.gif" width="70%">
 </p>
 
 ## 🚀 Tecnologias
